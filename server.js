@@ -6,7 +6,7 @@ const middlewares = jsonServer.defaults();
 const PORT = 5001;
 
 const corsOptions = {
-  origin: `globetrotters-demo.netlify.app`,
+  origin: 'https://globetrotters-demo.netlify.app',
   optionSuccessStatus: 200,
 };
 server.use(cors(corsOptions));

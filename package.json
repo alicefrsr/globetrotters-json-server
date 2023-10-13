@@ -4,7 +4,7 @@
   "description": "Simple json db to test deploy",
   "main": "server.js",
   "scripts": {
-    "server": "json-server --watch data/cities.json"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",

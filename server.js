@@ -1,9 +1,15 @@
 const jsonServer = require('json-server');
+const cors = require('cors');
 const server = jsonServer.create();
 const router = jsonServer.router('./data/cities.json');
 const middlewares = jsonServer.defaults();
 const PORT = 5001;
 
+const corsOptions = {
+  origin: `http://localhost:5173`,
+  optionSuccessStatus: 200,
+};
+server.use(cors(corsOptions));
 server.use(middlewares);
 server.use(router);
 

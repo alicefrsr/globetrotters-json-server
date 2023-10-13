@@ -13,30 +13,6 @@
       "id": 1
     },
     {
-      "cityName": "New York City",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2007-09-09T13:56:47.000Z",
-      "notes": "Sesame Street job with Henry, stayed at Jinx's place",
-      "position": {
-        "lat": "40.71291489723403",
-        "lng": "-74.0087127685547"
-      },
-      "id": 12
-    },
-    {
-      "cityName": "Palma",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2016-12-26T14:14:58.000Z",
-      "notes": "",
-      "position": {
-        "lat": "39.56937425264896",
-        "lng": "2.648134231567383"
-      },
-      "id": 2
-    },
-    {
       "cityName": "Antibes",
       "country": "France",
       "emoji": "🇫🇷",
@@ -109,18 +85,6 @@
       "id": 8
     },
     {
-      "cityName": "Machico",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2019-03-01T14:10:36.000Z",
-      "notes": "",
-      "position": {
-        "lat": "32.73855539925105",
-        "lng": "-16.7387866973877"
-      },
-      "id": 9
-    },
-    {
       "cityName": "Arrecife",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -143,18 +107,6 @@
         "lng": "3.125438690185547"
       },
       "id": 11
-    },
-    {
-      "cityName": "Antony",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2021-06-01T08:38:31.000Z",
-      "notes": "",
-      "position": {
-        "lat": "48.753019895325025",
-        "lng": "2.296829223632813"
-      },
-      "id": 13
     },
     {
       "cityName": "New York City",

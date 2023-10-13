@@ -1,0 +1,15 @@
+{
+  "name": "globetrotters-json-server",
+  "version": "1.0.0",
+  "description": "Simple json db to test deploy",
+  "main": "server.js",
+  "scripts": {
+    "server": "json-server --watch data/cities.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "cities": [
+    {
+      "cityName": "Greater London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "1997-09-09T12:57:17.000Z",
+      "notes": "",
+      "position": {
+        "lat": "51.507300079506656",
+        "lng": "-0.1278018951416016"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "New York City",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2007-09-09T13:56:47.000Z",
+      "notes": "Sesame Street job with Henry, stayed at Jinx's place",
+      "position": {
+        "lat": "40.71291489723403",
+        "lng": "-74.0087127685547"
+      },
+      "id": 12
+    },
+    {
+      "cityName": "Palma",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2016-12-26T14:14:58.000Z",
+      "notes": "",
+      "position": {
+        "lat": "39.56937425264896",
+        "lng": "2.648134231567383"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Antibes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2017-06-01T12:59:00.000Z",
+      "notes": "",
+      "position": {
+        "lat": "43.5813856701636",
+        "lng": "7.125320434570313"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Valletta",
+      "country": "Malta",
+      "emoji": "🇲🇹",
+      "date": "2018-04-01T13:02:41.000Z",
+      "notes": "Nostromo",
+      "position": {
+        "lat": "35.89961885334198",
+        "lng": "14.514913558959963"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Cannes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2018-05-01T13:05:39.000Z",
+      "notes": "",
+      "position": {
+        "lat": "43.5505387755674",
+        "lng": "7.011337280273438"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Marseille",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2018-06-01T13:04:24.000Z",
+      "notes": "",
+      "position": {
+        "lat": "43.3056934748018",
+        "lng": "5.36381721496582"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Monaco",
+      "country": "Monaco",
+      "emoji": "🇲🇨",
+      "date": "2018-07-31T12:59:56.000Z",
+      "notes": "",
+      "position": {
+        "lat": "43.72907270370991",
+        "lng": "7.418925762176515"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "Loano",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2018-09-01T13:08:19.000Z",
+      "notes": "",
+      "position": {
+        "lat": "44.12862982114874",
+        "lng": "8.258457183837892"
+      },
+      "id": 8
+    },
+    {
+      "cityName": "Machico",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2019-03-01T14:10:36.000Z",
+      "notes": "",
+      "position": {
+        "lat": "32.73855539925105",
+        "lng": "-16.7387866973877"
+      },
+      "id": 9
+    },
+    {
+      "cityName": "Arrecife",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2019-04-01T13:11:27.000Z",
+      "notes": "",
+      "position": {
+        "lat": "28.962641994618572",
+        "lng": "-13.551292419433594"
+      },
+      "id": 10
+    },
+    {
+      "cityName": "Palamos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2019-05-01T13:13:06.000Z",
+      "notes": "",
+      "position": {
+        "lat": "41.8491046861039",
+        "lng": "3.125438690185547"
+      },
+      "id": 11
+    },
+    {
+      "cityName": "Antony",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2021-06-01T08:38:31.000Z",
+      "notes": "",
+      "position": {
+        "lat": "48.753019895325025",
+        "lng": "2.296829223632813"
+      },
+      "id": 13
+    },
+    {
+      "cityName": "New York City",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-25T14:14:41.685Z",
+      "notes": "test",
+      "position": {
+        "lat": "40.71955054111943",
+        "lng": "-73.99995803833009"
+      },
+      "id": 16
+    }
+  ]
+}
